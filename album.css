@@ -1,10 +1,10 @@
-/*texto del css para la pagina de inicio*/
+
 
 .casa{
   background: url(http://locuraviajes.com//blog/wp-content/uploads/2014/05/los-10-mejores-paisajes-del-mundo-parque-nacional-banff.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;    /*centra la imagen*/
+  background-attachment: fixed;   
   font-style: italic;
   font-family: fantasy;
   font-size: large;
